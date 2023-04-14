@@ -1,3 +1,5 @@
+<a href="Preparação para o Exame.md" target="_self"  rel="prev"><<< AWS Certified Cloud</a>
+
 # Vamos começar com o conceito de nuvem
 Para este domínio, temos alguns enfoques relacionados. Tópicos de conceitos da AWS Cloud: <br>
 •	Definir o que é a AWS Cloud e sua proposta de valor; <br>
