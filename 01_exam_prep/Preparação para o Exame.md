@@ -16,3 +16,5 @@ Durante o exame será necessário concluir tarefas como explicar o valor da AWS 
 •	Tecnologias da AWS: é abordada no domínio três, esse domínio revisa métodos de implementação e operação da AWS Cloud, a infraestrutura global da AWS, os principais serviços e recursos da AWS para suporte de tecnologia;<br>
 •	Cobranças e Preços: é aqui que será analisado os vários modelos de preços para AWS, avalia as estruturas de conta em relação à cobranças e preços da AWS e revisa os recursos disponíveis para suporte de cobrança.<br>
 
+
+<a href="nuvem.md" target="_self"  rel="prev"> Continuar em Nuvem>>></a>
