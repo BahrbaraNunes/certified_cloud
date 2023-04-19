@@ -19,5 +19,23 @@ O visual a seguir descreve as tendências na evolução da computação. Quanto 
 - ` Conteinerização: Independência de plataforma e Implementações mais simples e rápidas;`
 - ` Sem Servidor: Orientado a eventos e Pagamento por uso.`
 
+## Modelos de implantação de computação em nuvem
+
+Quando alguém fala na “nuvem” no contexto de uma nuvem compartilhada ou pública, está se referindo a uma infraestrutura sob demanda fornecida por uma empresa como a AWS. As organizações que usam a nuvem pública podem aproveitar outras soluções fornecidas por um provedor de serviços de nuvem, como uma ou qualquer combinação das seguintes opções:<br>
+
+Software como serviço (SaaS) <br>
+Plataforma como serviço (PaaS) <br>
+Infraestrutura como serviço (IaaS) <br>
+
+![logo da compass](img/2.png)
+
+## Padrões entre clientes da AWS
+
+Em relação ao caminho para a adoção da nuvem, cada cliente traça um roteiro diferente. Muitos fatores internos e externos influenciam o processo de tomada de decisões e determinam onde eles começam na jornada. As adoções nem sempre são lineares, e os clientes podem estar em qualquer uma das quatro fases diferentes (às vezes ao mesmo tempo). <br>
+
+![logo da compass](img/3.jpg)
+
+
+
 
 
