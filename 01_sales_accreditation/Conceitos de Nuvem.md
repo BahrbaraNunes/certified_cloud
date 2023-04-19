@@ -33,7 +33,7 @@ Infraestrutura como serviço (IaaS) <br>
 
 Em relação ao caminho para a adoção da nuvem, cada cliente traça um roteiro diferente. Muitos fatores internos e externos influenciam o processo de tomada de decisões e determinam onde eles começam na jornada. As adoções nem sempre são lineares, e os clientes podem estar em qualquer uma das quatro fases diferentes (às vezes ao mesmo tempo). <br>
 
-![logo da compass](img/3.jpg)
+![logo da compass](img/3.png)
 
 
 
