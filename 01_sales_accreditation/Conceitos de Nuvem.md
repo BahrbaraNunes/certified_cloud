@@ -27,14 +27,32 @@ Software como serviço (SaaS) <br>
 Plataforma como serviço (PaaS) <br>
 Infraestrutura como serviço (IaaS) <br>
 
+## Há vários tipos de modelos de implementação
+
+Um deles é a nuvem, que pode ser on-premises ou híbrida. Tudo ou a maioria dos seus ativos pode estar hospedados em um provedor, como a AWS. As organizações colocam os recursos on-premises ou em colocation, agora chamamos de on-promises e antes de nuvem privado. E híbrido, ou seja, quando está nos dois tipos, unindo esses dois modelos de implantação.
+
 ![logo da compass](img/2.png)
+
+
+
 
 ## Padrões entre clientes da AWS
 
 Em relação ao caminho para a adoção da nuvem, cada cliente traça um roteiro diferente. Muitos fatores internos e externos influenciam o processo de tomada de decisões e determinam onde eles começam na jornada. As adoções nem sempre são lineares, e os clientes podem estar em qualquer uma das quatro fases diferentes (às vezes ao mesmo tempo). <br>
 
 ![logo da compass](img/3.png)
+Obs: “Integral” não significa estar 100% na nuvem. Poucos clientes estão 100% na nuvem, principalmente aqueles que começaram com sistemas on-premises.
 
+<a href="https://aws.amazon.com/pt/blogs/architecture/compute-abstractions-on-aws-a-visual-story/" target="_self"  rel="prev">Mais informações em AWS BLOG</a>
+
+
+## Por que os Clientes Escolhem a AWS?
+"Obsessão pelo cliente significa colocá-lo no centro e proporcionar a ele uma experiência do usuário atraente. Quando entendemos o problema do cliente e proporcionamos uma ótima experiência, isso gera valor para empresas." <br>
+
+A AWS oferece muitos benefícios aos clientes por meio de diversos serviços, metodologia de redução de custo e foco no crescimento e inovação do cliente. Todos esses benefícios são disponibilizados aos clientes em escala global, de modo que as empresas com presença internacional possam se beneficiar dos serviços da AWS. 
+
+<!--![informações](img/4.png)-->
+<img src= "img/4.png" width="900px"/>
 
 
 
