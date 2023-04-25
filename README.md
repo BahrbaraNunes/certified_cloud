@@ -29,17 +29,17 @@ Então a gente saiu de uma salinha para datacenters como o da AWS. E aqui dentro
 ## Benefícios de cloud computing
 
 
-* velocidade:
+- velocidade:
 
 O que é velocidade? Ah, quer dizer que cloud é mais rápido? Sim, mas nesse ponto que eu estou falando que a velocidade para a implementação e desenvolvimento de soluções, se você tem, por exemplo, um departamento comercial que precisa de uma aplicação para poder melhorar a parte de vendas, você dentro da cloud você consegue assinar serviços, iniciar serviços em segundos e montar aplicações em minutos e disponibilizar essa solução para o departamento que pediu em um curtíssimo espaço de tempo.
 
 Imagine antigamente se você no modelo antigo, precisasse de um serviço novo ou de uma aplicação nova, a gente tem que lá comprar um servidor, conectar na rede, fazer a configuração inicial, instalar tudo que é preciso e depois desenvolver a aplicação. Cloud não desenvolve aplicação e habilita ela no serviço. Acabou fácil e você paga somente pelo que utilizar, então a velocidade em solucionar problemas, isso aqui é dinheiro. Já viu aquela frase? Tempo e dinheiro? Tempo para empresa é dinheiro, quanto mais rápido ela conseguir solucionar os seus problemas, mais rápido ela consegue ganhar mais dinheiro.
 
-* Update:
+- Update:
 
 O que seria update? Vamos falar que você tem alguns servidores dentro da sua empresa e eles rodam um determinado software. Você tem que fazer os updates daquele software do sistema operacional, que seja Linux ou Windows. Você faz isso? Então você vai ter que abrir janelas de manutenção e você vai ter que fazer essas atualizações no caso de cloud. No caso da AWS, por exemplo, a AWS faz essas atualizações e essas atualizações são feitas sem interromper o serviço, eles conseguem fazer atualização sem interromper o serviço e mais ainda essas atualizações. Elas podem ser associadas e gerenciadas com integrações também. Então, você consegue integrar a sua aplicação ou o seu sistema operacional com uma ferramenta sem ter que interromper o serviço.
 
-* Custo:
+- Custo:
 
 O custo de cloud é muito mais baixo do que o normal e você vai perceber também que quando consegue prever que tipo de serviço você vai utilizar e por qual espaço de tempo você consegue ainda assinar contratos com AWS e falar o seguinte Olha, eu vou precisar desse serviço aqui x, y, z e eu vou usar ele por no mínimo três anos. Tem como fazer um desconto? AWS vai lá e fala Claro, eu posso fazer isso aqui 75% mais barato do que você pagaria só por utilizar ele mês por mês. É a mesma coisa que você alugar uma casa e "falar quanto que o aluguel dessa casa?" O aluguel dessa casa é R$5.000.  E se eu pagar três anos em a frente? Aí o cara fala OPA, peraí, há três anos aí eu te faço por 3000 ao inves de 5000.
 Porque vou pegar esse dinheiro e investir em alguma outra coisa. Todo mundo sai ganhando com isso. Basicamente, é o que AWS faz.
@@ -47,13 +47,13 @@ Porque vou pegar esse dinheiro e investir em alguma outra coisa. Todo mundo sai 
 Então, além do custo ser muito baixo, você pode baixar mais ainda assinando contratos com ela, e não precisa entrar em contato com o pessoal de vendas é tudo pela plataforma.
 
 
-* Data Security:
+- Data Security:
 
 Se você voltar nos ambientes físicos aonde tudo ficava dentro da empresa, existe um negócio chamado backup, que você tinha que tirar de tempos em tempos, sei lá, a cada sete dias. Só que não fazia sentido você tirar o backup do sistema e deixar ele dentro da empresa, então você teria que enviar esse backup via fita e para empresas que armazenaram isso num ambiente seguro. O Cloud já faz isso para você. Quando eles te vendem um serviço, eles já te vendem um serviço com um sistema de backup, a maioria deles com sistema de backup já incorporado. Aonde você não precisa se preocupar com esse negócio de tirar backup do sistema e enviar a fita, porque se por acaso, se o prédio pegar fogo e o backup tiver lá dentro, não adiantou de nada ter um backup, entendeu?
 
 Essa parte de backup e segurança de dados já é feita pela própria AWS. Eu irei adicionar mais uma que eu acho extremamente importante também que é a escalabilidade.
 
-* Escalabilidade:
+- Escalabilidade:
 
 A escalabilidade quer dizer o quê? Se hoje você tem um servidor e nesse servidor você roda a sua aplicação a esse servidor, ele está lá, bonitão, funcionando a 50% de uma hora para outra sua aplicação tem uma requisição maior, quer dizer, às vezes você fechou com um cliente ou às vezes é o seu site que tem uma quantidade de acesso maior, ela vai lá e chega a 90%. Se esse servidor tivesse dedo da sua empresa, você já ia pensar Uau, eu preciso de comprar um segundo servidor e fazer com que os dois se pareçam um só com um sistema de cluster, alguma coisa assim, ou eu preciso adicionar mais memória, mais CPU, mais processamento, mas isso você não consegue fazer nem dentro do mesmo dia, às vezes demora semanas para acontecer.
 
