@@ -21,7 +21,7 @@ ________________________________________________________________________________
 Eu troxe  um gráfico logo abaixo que vai te explicar. Basicamente, eu vou te dar alguns modelos sobre cada um deles.
 Por exemplo, quando você tem um site, significa que está dentro da sua empresa, o que significa que você tem que fazer a parte de redes, de vermelho está o Cloud Provider, quer dizer, o provedor de cloud, no caso AWS.
 
-<img src= "img/cn.png" width="600px"/>
+<img src= "imagens/cn.png" width="600px"/>
 
 Quando você contrata um IaaS você está pagando somente pela infraestrutura, fora isso, é você que gerencia. Eles gerenciam a infraestrutura. <br> 
 Se você paga por um PaaS, eles gerenciam a plataforma e você gerencia a aplicação que está no topo da plataforma. <br>
