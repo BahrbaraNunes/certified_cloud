@@ -38,3 +38,4 @@ Por exemplo, se você contrata um SaaS, eles gerenciam a aplicação e você nã
 
 
 
+
