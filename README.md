@@ -61,7 +61,7 @@ Quando você utiliza cloud, há escalabilidade. Primeiro, você pode configurar 
 
 
 
-<a href="#" target="_self"  rel="prev"> Página seguinte>>> </a>
+<a href="certified_amazon_aws/page02.md" target="_self"  rel="prev"> Página seguinte>>> </a>
 
 
 
