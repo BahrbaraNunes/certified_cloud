@@ -19,7 +19,7 @@ PAAS (Platform as a Service): Com o PAAS, a AWS oferece uma plataforma completa 
 SAAS (Software as a Service): Com o SAAS, a AWS oferece aplicativos prontos para uso na nuvem, como email, CRM (Customer Relationship Management) e ferramentas de colaboração. O usuário tem acesso aos aplicativos por meio de uma interface web e não precisa se preocupar com a infraestrutura, o sistema operacional ou as atualizações de software.
 
 <br>
-_______________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
 <br>
 
 Eu troxe  um gráfico logo abaixo que vai te explicar. Basicamente, eu vou te dar alguns modelos sobre cada um deles.
