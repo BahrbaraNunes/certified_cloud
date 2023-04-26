@@ -52,8 +52,15 @@ Então, por exemplo, se você precisa de uma máquina, de um servidor. Você pre
 Se por acaso você quiser comprar um domínio de internet, o www.algumacoisa.com. Para você comprar esse domínio Você precisa acessar um serviço da AWS que é chamado de Roteamento ou Rota53 e dentro desse serviço você pode fazer a compra da sua URL e a compra do seu domínio aí.
 
 
+### As Principais Categorias  de serviço da AWS
 
-
+- computação;
+- Armazenamento;
+- Banco de dados;
+- Redes e entrega de conteúdo;
+- Análise;
+- Machine learning;
+- Segurança, indentidade e conformidade.
 
 
 
