@@ -52,7 +52,7 @@ Então, por exemplo, se você precisa de uma máquina, de um servidor. Você pre
 Se por acaso você quiser comprar um domínio de internet, o www.algumacoisa.com. Para você comprar esse domínio Você precisa acessar um serviço da AWS que é chamado de Roteamento ou Rota53 e dentro desse serviço você pode fazer a compra da sua URL e a compra do seu domínio aí.
 
 
-### As Principais Categorias  de serviço da AWS
+### As Principais Categorias  de serviço da AWS:
 
 - computação;
 - Armazenamento;
@@ -61,6 +61,10 @@ Se por acaso você quiser comprar um domínio de internet, o www.algumacoisa.com
 - Análise;
 - Machine learning;
 - Segurança, indentidade e conformidade.
+
+
+Veja mais em:
+<a href="https://aws.amazon.com/pt/free/?trk=9eeea834-765c-4895-95ec-d2fb1a1a573d&sc_channel=ps&ef_id=CjwKCAjwl6OiBhA2EiwAuUwWZS5bPo5ypY3g1ni0mfw1AnaXb0xj_eRYHWEs8bYT9j8R3QyFGwj5bBoC4gAQAvD_BwE:G:s&s_kwcid=AL!4422!3!561843095001!p!!g!!aws!15278604641!130587773180&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_self"  rel="prev">Serviços de Compuatção em nuvem AWS</a>
 
 
 
